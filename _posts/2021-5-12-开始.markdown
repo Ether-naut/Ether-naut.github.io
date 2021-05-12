@@ -1,0 +1,10 @@
+---
+layout: post
+title: "开始"
+author: "Ether"
+date: 2021-05-12 15:09:00 +0800
+tags: Log
+excerpt_separator: <!--more-->
+---
+
+不知道该如何是好。
